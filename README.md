@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Implementing Solutions that solve real world problems.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects that leverage the MERN stack and aim to solve real-world problems.<br><br>🌱 **I’m currently learning:**  <br>Advanced backend in Nodejs and blockchain technology.<br><br>💬 **Ask me about:**  <br>JavaScript, Typescript, Node.js, Expressjs, React, Nextjs, SQL Databases, Prisma.<br><br>⚡ **Fun fact:**  <br>I enjoy building fullstack web applications.
+🔭 **I’m currently working on:**  <br>Implementing Solutions that solve real world problems.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects that leverage the MERN stack and aim to solve real-world problems.<br><br>🌱 **I’m currently learning:**  <br>Advanced backend in Nodejs and blockchain technology.<br><br>💬 **Ask me about:**  <br>JavaScript, Typescript, Node.js, Expressjs, React, Nextjs, Redux, SQL Databases, Prisma.<br><br>⚡ **Fun fact:**  <br>I enjoy building fullstack web applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arshpreet-singh-2b30a7285/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arshpreet_000) 
